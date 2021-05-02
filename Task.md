@@ -1,6 +1,6 @@
 ##### Task 1 - 2 May 2021
 Here is the list of essential tags. Try using them and create a webpage
-/
+<br />
 [https://www.impactplus.com/blog/21-basic-html-codes-everyone-whos-not-a-developer-should-know](https://www.impactplus.com/blog/21-basic-html-codes-everyone-whos-not-a-developer-should-know)
 
 ##### Task 2 - 2 May 2021

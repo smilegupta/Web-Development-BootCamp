@@ -40,7 +40,7 @@ Page)
 - Switches
 - Function Declarations & Expressions
 - General Loops
-- A Look At The Window Object
+
 
 ##### Core Concepts ( Bonus ) 
 - How JavaScript Works & Execution Context 
